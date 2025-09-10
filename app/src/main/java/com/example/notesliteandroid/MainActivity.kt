@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         val textView = findViewById<TextView>(R.id.textView)
         textView.text = "Welcome to Notes Lite, Iliyas!"
+
     }
 }
